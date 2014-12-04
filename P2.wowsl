@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>4.8</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <Captions>true</Captions>
+            <CaptionsEffect>slide</CaptionsEffect>
+            <Controls>true</Controls>
+            <GalleryName>P2</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>blur</ImageEffect>
+            <ImageFillColor>#FFFFFF</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files/WOW Slider/templates/backgnd/book/</ImageTemplate>
+            <ImageTemplateName>Book</ImageTemplateName>
+            <ImageWidth>960</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/Users/pc/Desktop/aplicacion08/Nueva carpeta/p2/p2.html</PublishFileName>
+            <PublishIndex>p2.html</PublishIndex>
+            <PublishPath>C:/Users/pc/Desktop/aplicacion08/Nueva carpeta/p2</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>true</ShowBullets>
+            <ShowTooltips>true</ShowTooltips>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <TemplateName>book</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>false</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/Users/pc/Desktop/aplicacion08/Nueva carpeta/p2/10.jpg</url>
+                <title>10</title>
+            </Image>
+            <Image>
+                <url>C:/Users/pc/Desktop/aplicacion08/Nueva carpeta/p2/11.jpg</url>
+                <title>11</title>
+            </Image>
+            <Image>
+                <url>C:/Users/pc/Desktop/aplicacion08/Nueva carpeta/p2/12.5.jpg</url>
+                <title>12.5</title>
+            </Image>
+            <Image>
+                <url>C:/Users/pc/Desktop/aplicacion08/Nueva carpeta/p2/12.jpg</url>
+                <title>12</title>
+            </Image>
+            <Image>
+                <url>C:/Users/pc/Desktop/aplicacion08/Nueva carpeta/p2/13.jpg</url>
+                <title>13</title>
+            </Image>
+            <Image>
+                <url>C:/Users/pc/Desktop/aplicacion08/Nueva carpeta/p2/14.jpg</url>
+                <title>14</title>
+            </Image>
+            <Image>
+                <url>C:/Users/pc/Desktop/aplicacion08/Nueva carpeta/p2/15.jpg</url>
+                <title>15</title>
+            </Image>
+            <Image>
+                <url>C:/Users/pc/Desktop/aplicacion08/Nueva carpeta/p2/16.jpg</url>
+                <title>16</title>
+            </Image>
+            <Image>
+                <url>C:/Users/pc/Desktop/aplicacion08/Nueva carpeta/p2/17.jpg</url>
+                <title>17</title>
+            </Image>
+            <Image>
+                <url>C:/Users/pc/Desktop/aplicacion08/Nueva carpeta/p2/18.jpg</url>
+                <title>18</title>
+            </Image>
+            <Image>
+                <url>C:/Users/pc/Desktop/aplicacion08/Nueva carpeta/p2/19.jpg</url>
+                <title>19</title>
+            </Image>
+            <Image>
+                <url>C:/Users/pc/Desktop/aplicacion08/Nueva carpeta/p2/20.jpg</url>
+                <title>20</title>
+            </Image>
+            <Image>
+                <url>C:/Users/pc/Desktop/aplicacion08/Nueva carpeta/p2/21.jpeg</url>
+                <title>21</title>
+            </Image>
+            <Image>
+                <url>C:/Users/pc/Desktop/aplicacion08/Nueva carpeta/p2/22.jpg</url>
+                <title>22</title>
+            </Image>
+            <Image>
+                <url>C:/Users/pc/Desktop/aplicacion08/Nueva carpeta/p2/23.jpg</url>
+                <title>23</title>
+            </Image>
+            <Image>
+                <url>C:/Users/pc/Desktop/aplicacion08/Nueva carpeta/p2/24.jpg</url>
+                <title>24</title>
+            </Image>
+            <Image>
+                <url>C:/Users/pc/Desktop/aplicacion08/Nueva carpeta/p2/25.jpg</url>
+                <title>25</title>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
